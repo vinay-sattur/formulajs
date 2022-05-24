@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "bessel": "^1.0.2",
-    "jstat": "^1.9.2"
+    "jstat": "^1.9.5"
   },
   "devDependencies": {
     "blanket": "^1.1.6",
